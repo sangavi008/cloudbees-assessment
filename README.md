@@ -12,7 +12,7 @@ This project is a Java Spring Boot application developed for the CloudBees asses
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/cloudbees-assessment.git
+   git clone https://github.com/sangavi008/cloudbees-assessment.git
 
 
 2. Change into the project directory:
