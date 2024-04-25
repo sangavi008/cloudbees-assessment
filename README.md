@@ -4,7 +4,7 @@ This project is a Java Spring Boot application developed for the CloudBees asses
 
 ## Prerequisites
 
-- Java 8 or higher
+- Java 8
 - Maven
 
 ## Getting Started
