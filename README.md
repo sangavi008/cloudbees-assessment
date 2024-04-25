@@ -1,14 +1,37 @@
-# cloudbees-assessment
+# CloudBees Assessment
 
-The given assessment is implemented using Java Spring Boot.
+This project is a Java Spring Boot application developed for the CloudBees assessment.
 
-To run the project use the below command:
-       - maven clean install
-       - maven run 
+## Prerequisites
 
-Once the application is started, use the below swagger url to check the apis' and try out.
+- Java 8 or higher
+- Maven
 
-http://localhost:8090/swagger-ui/
+## Getting Started
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/cloudbees-assessment.git
 
 
+2. Change into the project directory:
 
+   ```sh
+   cd cloudbees-assessment
+
+3. Build the project:
+
+   ```sh
+   mvn clean install
+
+4. Run the application:
+
+   ```sh
+   mvn spring-boot:run
+
+5. Access the application:
+
+```sh
+   http://localhost:8090/swagger-ui/
+```
